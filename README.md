@@ -118,3 +118,6 @@ void loop() {
     num_count = 0;
   }
 }
+```
+
+![](glcd_result2.jpg)
